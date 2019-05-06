@@ -79,3 +79,22 @@ a{
     display: block;
     width: 100%;
 }
+/* 购物车 */
+.cart-contro {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 20px;
+    color: #0e90d2;
+    
+}
+.topay {
+    text-align: center;
+    float: right;
+    height: 49px;
+    line-height: 32px;
+    margin-right: -12px;
+}
+.car-bottom{
+    background: #eee;
+}
+/* 购物车结束 */
